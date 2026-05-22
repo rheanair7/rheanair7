@@ -1,7 +1,5 @@
 # Hi, I'm Rhea 👋
-![Rhea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rheanair7&show_icons=true&hide_border=true&title_color=B85C52&icon_color=B85C52&text_color=888&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rheanair7&layout=compact&hide_border=true&title_color=B85C52&text_color=888&bg_color=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=rheanair7&color=B85C52&style=flat)
 
 MS Computer Science @ CU Boulder · ML Engineer · AI Engineer
 
