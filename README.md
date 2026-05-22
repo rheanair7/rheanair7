@@ -1,4 +1,7 @@
 # Hi, I'm Rhea 👋
+![Rhea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rheanair7&show_icons=true&hide_border=true&title_color=B85C52&icon_color=B85C52&text_color=888&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rheanair7&layout=compact&hide_border=true&title_color=B85C52&text_color=888&bg_color=0d1117)
 
 MS Computer Science @ CU Boulder · ML Engineer · AI Engineer
 
@@ -21,7 +24,6 @@ I build ML systems end-to-end — from training and analyzing vision models to s
 | [CLRNet Failure Analysis](https://rheanair7.github.io/RheaNair/work/clrnet-failure-analysis) | Scenario-based F1 profiling across 10 driving conditions on CULane. Grad-CAM interpretability + CLAHE augmentation | PyTorch · ResNet18 · Grad-CAM |
 | [Multimodal VQA — VizWiz](https://rheanair7.github.io/RheaNair/work/vizwiz-vqa) | VQA pipeline for blind users across 3 challenge tracks. Fine-tuned BLIP-2 with answerability prediction | PyTorch · BLIP-2 · HuggingFace |
 | [BoulderMove](https://rheanair7.github.io/RheaNair/work/boulder-move) | Multimodal trip planner with XGBoost route scoring, GTFS + OSMnx routing, deployed on GCP | XGBoost · FastAPI · GCP · React |
-| [Analytics Warehouse @ Ascend](https://rheanair7.github.io/RheaNair/work/ascend-analytics-warehouse) | First data warehouse + agentic AI chatbot for a logistics company | SQL · Superset · Kubernetes · OpenAI API |
 
 ---
 
