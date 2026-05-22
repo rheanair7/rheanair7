@@ -1,5 +1,4 @@
 # Hi, I'm Rhea 👋
-![Profile Views](https://komarev.com/ghpvc/?username=rheanair7&color=B85C52&style=flat)
 
 MS Computer Science @ CU Boulder · ML Engineer · AI Engineer
 
@@ -37,10 +36,9 @@ Languages      Python · Java · TypeScript · SQL · R
 ---
 
 ### Background
+Previously: Co-op at Ascend Cargo Systems · NLP research at Virginia Tech · Multi-agent RL at TIFR Mumbai
 
-Previously: NLP research at **Virginia Tech** · Multi-agent RL at **TIFR Mumbai**
-
-Degrees: MS CS @ CU Boulder · MS Business Analytics + MS Cybersecurity @ Virginia Tech · BTech CS @ NMIMS Mumbai
+Degrees: MS CS @ CU Boulder · MS Business Analytics + BS Cybersecurity @ Virginia Tech · BTech CS @ NMIMS Mumbai
 
 ---
 
