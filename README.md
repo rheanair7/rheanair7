@@ -2,15 +2,15 @@
 
 MS Computer Science @ CU Boulder · ML Engineer · AI Engineer
 
-I build ML systems end-to-end — from training and analyzing vision models to shipping data infrastructure and agentic AI in production. I care about the full stack of a problem: getting the data right, understanding why the model fails, and making sure it holds up when real people use it.
+I build ML systems end-to-end from training and analyzing vision models to shipping data infrastructure and agentic AI in production. I care about the full stack of a problem: getting the data right, understanding why the model fails, and making sure it holds up when real people use it.
 
 ---
 
 ### What I'm working on
 
-- 🏗️ **Ascend Cargo Systems** — built analytics infrastructure from scratch: data warehouse, ETL pipelines, embedded BI on Kubernetes, and an agentic AI chatbot for querying logistics data in natural language
-- 🔬 **CU Boulder** — MS CS, coursework in Neural Networks, ML Systems, and Data Science
-- 🚀 Actively looking for **ML Engineering / AI Engineering / Data Science** roles for 2026
+- **Ascend Cargo Systems** — built analytics infrastructure from scratch: data warehouse, ETL pipelines, embedded BI on Kubernetes, and an agentic AI chatbot for querying logistics data in natural language
+- **CU Boulder** — MS CS, coursework in Neural Networks, ML Systems, and Data Science
+- Actively looking for **ML Engineering / AI Engineering / Data Science** roles for 2026
 
 ---
 
@@ -25,13 +25,15 @@ I build ML systems end-to-end — from training and analyzing vision models to s
 ---
 
 ### Stack
-
+ 
 ```
-ML / AI        PyTorch · HuggingFace · Scikit-learn · spaCy · XGBoost · BLIP-2 · Grad-CAM
-Data           SQL · Pandas · Apache Superset · ETL · Tableau · dbt
-Systems        Kubernetes · Docker · GCP · AWS · DigitalOcean · FastAPI · Helm
-Languages      Python · Java · TypeScript · SQL · R
-```
+ML / AI        PyTorch · TensorFlow · Keras · HuggingFace · Scikit-learn · OpenAI API · CNNs · Transformers
+               LLM Architectures · Mixed Precision Training · Model Quantization · CUDA · spaCy · XGBoost
+Data           SQL · Pandas · OpenCV · MongoDB · Hadoop · Apache Spark · Snowflake · gRPC · Protobuf
+               Tableau · PowerBI · Streamlit · Dash · Apache Superset
+Systems        Git · Linux · Docker · Kubernetes · FastAPI · AWS · Azure · GCP · DigitalOcean · Databricks
+               SAS · A/B Testing · Causal Inference
+Languages      Python · Java · C++ · MATLAB · R · SQL · NoSQL
 
 ---
 
