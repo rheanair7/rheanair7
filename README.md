@@ -34,7 +34,7 @@ Data           SQL · Pandas · OpenCV · MongoDB · Hadoop · Apache Spark · S
 Systems        Git · Linux · Docker · Kubernetes · FastAPI · AWS · Azure · GCP · DigitalOcean · Databricks
                SAS · A/B Testing · Causal Inference
 Languages      Python · Java · C++ · MATLAB · R · SQL · NoSQL
-
+```
 ---
 
 ### Background
