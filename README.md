@@ -18,9 +18,9 @@ I build ML systems end-to-end from training and analyzing vision models to shipp
 
 | Project | What it is | Stack |
 |---|---|---|
-| [CLRNet Failure Analysis](https://rheanair7.github.io/RheaNair/work/clrnet-failure-analysis) | Scenario-based F1 profiling across 10 driving conditions on CULane. Grad-CAM interpretability + CLAHE augmentation | PyTorch · ResNet18 · Grad-CAM |
-| [Multimodal VQA — VizWiz](https://rheanair7.github.io/RheaNair/work/vizwiz-vqa) | VQA pipeline for blind users across 3 challenge tracks. Fine-tuned BLIP-2 with answerability prediction | PyTorch · BLIP-2 · HuggingFace |
-| [BoulderMove](https://rheanair7.github.io/RheaNair/work/boulder-move) | Multimodal trip planner with XGBoost route scoring, GTFS + OSMnx routing, deployed on GCP | XGBoost · FastAPI · GCP · React |
+| [CLRNet Failure Analysis](https://github.com/rheanair7/Lane-Detection-Scenario-Based-Failure-Analysis.git) | Scenario-based F1 profiling across 10 driving conditions on CULane. Grad-CAM interpretability + CLAHE augmentation | PyTorch · ResNet18 · Grad-CAM |
+| [Multimodal VQA — VizWiz](https://github.com/rheanair7/Multimodal-VQA-for-Visual-Accessibility.git) | VQA pipeline for blind users across 3 challenge tracks. Fine-tuned BLIP-2 with answerability prediction | PyTorch · BLIP-2 · HuggingFace |
+| [BoulderMove](https://github.com/rheanair7/BoulderMove.git) | Multimodal trip planner with XGBoost route scoring, GTFS + OSMnx routing, deployed on GCP | XGBoost · FastAPI · GCP · React |
 
 ---
 
