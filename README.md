@@ -102,4 +102,4 @@ Degrees: MS CS @ CU Boulder · MS Business Analytics + BS Cybersecurity @ Virgin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rheanair07-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rheanair07)
 [![Email](https://img.shields.io/badge/Email-rheanair071@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rheanair071@gmail.com)
 
-*Open to full-time roles in ML Engineering, AI Engineering, and Data Science — 2026*
+*Open to full-time roles in ML Engineering, AI Engineering, and Data Science — 2027*
