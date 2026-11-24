@@ -12,7 +12,7 @@ I build ML systems end-to-end from training and analyzing vision models to shipp
 
 - **Google Colorado Impact Hackathon**: Collaborated with an interdisciplinary team at Google Boulder to develop technology-driven solutions focused on energy resilience and sustainability. [Read more on LinkedIn](https://lnkd.in/p/g5wXwsPN).
 
-- **Cerebras × Google DeepMind Hackathon**: Built [TriageFlow](https://github.com/rheanair7/triageflow), a multimodal multi-agent incident triage system on Gemma 4 31B via the Cerebras API. Four agents (Triage, Retrieval, Resolution, Diagnostic) with a confidence feedback loop. Full pipeline completes in under 500ms — 7× faster than GPU providers on the same agentic workload.
+- **Cerebras × Google DeepMind Hackathon**: Built [TriageFlow](https://github.com/rheanair7/triageflow), a multimodal multi-agent incident triage system on Gemma 4 31B via the Cerebras API. Four agents (Triage, Retrieval, Resolution, Diagnostic) with a confidence feedback loop. Full pipeline completes in under 500ms — 7× faster than GPU providers on the same agentic workload. [Read more on LinkedIn](https://lnkd.in/p/gPkxHTPw).
 
 - **Ascend Cargo Systems**: Built analytics infrastructure from scratch: data warehouse, ETL pipelines, embedded BI on Kubernetes, and an agentic AI chatbot for querying logistics data in natural language.
 
